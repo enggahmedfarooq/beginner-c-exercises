@@ -1,7 +1,8 @@
 /*
 =====================================
    C Programming Practice Tasks
-   Author: Your Name
+   Author: Ahmed Farooq
+
    Description: Collection of beginner 
    programming tasks in C
 =====================================
